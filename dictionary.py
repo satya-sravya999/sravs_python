@@ -1,27 +1,27 @@
 # Step 1: Create a dictionary with initial values
  students = {
-     101: "Surya",
-     102: "Sai",
-     103: "Krishna",
+     101: "Saladi",
+     102: "Satya",
+     103: "Sravya",
      
  }
  
  # Step 1.1: Adding new values to the dictionary
- students[106] = "Surya Sai"
- students[107] = "Sai Krishna"
+ students[106] = "Saladi Satya"
+ students[107] = "Satya Sravya"
  
  # Printing the updated dictionary
  print("Updated Student Dictionary:", students)
  # Adding new students to the dictionary
- students[106] = "Surya Sai"
- students[107] = "Sai Krishna"
+ students[106] = "Saladi Satya"
+ students[107] = "Satya Sravya"
  
  # Printing the updated dictionary
  print("Updated Student Dictionary:", students)
  # Updating values in the dictionary
- students[101] = "Surya Sai Krishna"
- students[102] = "Sai Surya"
- students[103] = "Krishna Sai"
+ students[101] = "Saladi Satya Sravya"
+ students[102] = "Satya Saladi"
+ students[103] = "Sravya Satya"
  
  # Printing the updated dictionary
  print("Dictionary after updating values:", students)
@@ -36,9 +36,9 @@
  
  # Creating a nested dictionary
  students = {
-     101: {"Name": "Surya Sai Krishna", "Course": "Python"},
-     102: {"Name": "Sai Surya", "Course": "Java"},
-     103: {"Name": "Krishna Sai", "Course": "C++"},
+     101: {"Name": "Surya Sai Krishn", "Course": "Python"},
+     102: {"Name": "Satya Saladi", "Course": "Java"},
+     103: {"Name": "Sravya Satya", "Course": "C++"},
      
  }
  
