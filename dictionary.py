@@ -36,7 +36,7 @@
  
  # Creating a nested dictionary
  students = {
-     101: {"Name": "Surya Sai Krishn", "Course": "Python"},
+     101: {"Name": "Saladi Satya Sravya", "Course": "Python"},
      102: {"Name": "Satya Saladi", "Course": "Java"},
      103: {"Name": "Sravya Satya", "Course": "C++"},
      
