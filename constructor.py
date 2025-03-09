@@ -45,7 +45,7 @@
  obj3 = Example(10, 20)
  
  print("\n---- Child Class Constructor Calling Superclass ----")
- child_obj = Child("Surya Sai Krishna", 20)
+ child_obj = Child("Saladi satya sravya", 20)
  
  print("\n---- Access Modifiers in Constructor ----")
  demo_obj = Demo()
@@ -54,5 +54,5 @@
  demo_obj._Demo__private_constructor()  # Accessing private method using name mangling
  
  print("\n---- Attributes in Constructor ----")
- person = Person("Surya Sai Krishna", 21)
+ person = Person("saladi satya sravya", 21)
  person.display()
